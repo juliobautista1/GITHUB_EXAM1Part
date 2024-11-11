@@ -33,7 +33,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.ejemplo.App</mainClass> <!-- Cambia esto según tu paquete y clase -->
+              <mainClass>com.ejemplo.App</mainClass>
             </manifest>
           </archive>
         </configuration>
